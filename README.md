@@ -24,7 +24,8 @@ before moving ahead make sure you have met the following requisites
    ```
 3. Install dependencies.
    ```bash
-   npm install
+   1. npm install
+   2. npm install survey-react-ui --save
    ```
 
 4. Start the application.
